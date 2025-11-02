@@ -1,0 +1,2 @@
+# FIG
+Informática Gráfica
